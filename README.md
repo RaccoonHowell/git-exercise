@@ -7,3 +7,6 @@ adding notes to commit - aamir
 
 ## git clone
 git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. In this page we'll discuss extended configuration options and common use cases of git clone . Some points we'll cover here are: Cloning a local or remote repository.
+
+### git branch
+The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
