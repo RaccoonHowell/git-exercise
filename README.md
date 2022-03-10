@@ -10,6 +10,7 @@ git clone is a Git command line utility which is used to target an existing repo
 
 ### git branch
 The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
+
 ## git checkout
 The "checkout" command can switch the currently active branch - but it can also be used to restore files.
 
